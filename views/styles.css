@@ -1,0 +1,12 @@
+.list-group-item:hover{
+    background-color: #0275d8;
+}
+
+.btn{
+    margin: 1px;
+}
+
+.form-control{
+    margin: 3px;
+}
+
