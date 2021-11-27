@@ -1,5 +1,6 @@
-* webpack;
-* ejs
-* bootstrap;
-* nodemon
-* 
+## Em construção. 
+## Bibliotecas/Frameworks utilizados:
+* Webpack;
+* Express
+* Bootstrap;
+* Nodemon.
