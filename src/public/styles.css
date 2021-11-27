@@ -1,0 +1,30 @@
+.btn{
+    margin: 2px;
+}
+
+.form-control{
+    margin: 3px;
+}
+
+.btn-primary{
+    margin-bottom: 20px;
+}
+
+table{
+    /* margin-left: 100px; 
+    margin-right:100px; */
+    width: 100%;
+    /* margin-bottom: 100px; */
+
+}
+
+.borda{
+    border-radius: 5px 5px;
+    overflow:hidden;
+    margin-left: 100px; 
+    margin-right:100px;
+    
+    
+    
+
+}

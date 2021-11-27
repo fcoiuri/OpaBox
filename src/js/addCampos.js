@@ -30,9 +30,10 @@ function add_campoNS() {
     // colocando o nome do input e especificacoes
     novo_campo.setAttribute("name", "listas[salaS][]");
     novo_campo.setAttribute("class", "form-control ");
-    novo_campo.setAttribute("placeholder", "Sala S");
+    novo_campo.setAttribute("placeholder", "Sala S - Digite uma única letra");
     novo_campo.setAttribute("required", "required");
-    // insere o elemento na penúltima posiçã
+    novo_campo.setAttribute("pattern", "[A-Za-z]{1}");
+    // insere o elemento na penúltima posição
     var pos = formu.childElementCount;
 
     // insere o elemento
