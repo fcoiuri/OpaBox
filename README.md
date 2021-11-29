@@ -16,7 +16,7 @@
 {
  listas: {
  salaN: [ 1, 5, 7, 8 ],
- salaS: [ “a”, “x”, “n” ]
+ salaS: [ "a", "x", "n" ]
  }
 }
 ```
