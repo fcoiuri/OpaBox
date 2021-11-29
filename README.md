@@ -40,4 +40,6 @@ intervalos A [10, 20] e B [ 40, 50 ] deve responder false
 ```
 Neste tópico foi decidido que a aplicação verifica o arquivo `db.json` e verifica se os intervalos se interlaçam ou sobrepõe.
 
-3. Fazer uma página web simples para poder fazer as chamadas descritas acima e exibir os devidos resultados da execução. O formúlario para envio de dados do Passo 1 é apresentada em `/` e os resultados apresentados em `ordenaLista`. Já a lista do Passo 2 é apresentada em `/` abaixo do formulário do Passo 1.
+3. Fazer uma página web simples para poder fazer as chamadas descritas acima e exibir os devidos resultados da execução:   
+
+O formúlario para envio de dados do Passo 1 é apresentada em `/` e os resultados apresentados em `/ordenaLista`. Já a lista do Passo 2 é apresentada em `/` abaixo do formulário do Passo 1.
