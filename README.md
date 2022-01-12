@@ -1,7 +1,7 @@
 # Aplicação desenvolvida para o teste da vaga de Desenvolvedor Júnior na empresa Opa Soluções Tecnológicas S.A.  
 ## Bibliotecas/Frameworks utilizados:
 * Express: Framework utilizado no Back-end para requests HTTP, como GET e o POST;
-* Bootstrap: Utilizado para exibição e estilização tda página;
+* Bootstrap: Utilizado para exibição e estilização da página;
 * Axios: Utilizado para executar um get de um json em "interlace";
 * Ejs: Ajuda a enviar dados as páginas pelo Express;
 * Path: Facilita a interagir com os arquivos facilmente.
